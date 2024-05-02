@@ -1,24 +1,14 @@
 # 🔱 MVC.js
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Simple todo MVC application in plain JavaScript
+Aplicación MVC de tareas sencillas en JavaScript.
 
-### [Read the tutorial](https://www.taniarascia.com/javascript-mvc-todo-app) | [View the demo](https://taniarascia.github.io/mvc)
+## Proposito
 
-## Purpose
+¡Aprenda+er el patrón MVC creando una pequeña aplicación!
 
-Learn the MVC pattern by building a small app!
+- **Modelo** - gestiona los datos de una aplicación
+- **Vista** - una representación visual del modelo
+- **Controlador** - vincula al usuario y al sistema
 
-- **Model** - manages the data of an application
-- **View** - a visual representation of the model
-- **Controller** - links the user and the system
+Esta aplicación consta de 'index.html', 'script.js' y 'style.css'. Esto significa que no hay marcos ni dependencias que se interpongan en el camino del aprendizaje del concepto MVC.
 
-This application consists of `index.html`, `script.js`, and `style.css`. This means that there are no frameworks or dependencies getting in the way of learning the MVC concept.
-
-## Author
-
-- [Tania Rascia](https://www.taniarascia.com)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
